@@ -1,0 +1,2 @@
+# meteoreact
+Meteor + react playground
